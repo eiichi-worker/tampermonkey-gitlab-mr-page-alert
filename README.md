@@ -2,6 +2,8 @@
 
 ## これは何？
 
+Gitlab.comのマージリクエスト画面を拡張する、Tampermonkeyのスクリプトです。
+
 ![](/documents/images/image.png)
 
 ### Gitlab.comのマージリクエスト画面を安全にします
@@ -16,8 +18,9 @@
 
 - Chromeの場合 → [chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=utils](chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=utils)
 
-### URLに入力します
+### 2. 次のURLを入力しインポートします
+
+- https://raw.githubusercontent.com/eiichi-worker/tampermonkey-gitlab-mr-page-alert/master/src/index.js
 
 ![](/documents/images/import.png)
 
-- https://raw.githubusercontent.com/eiichi-worker/tampermonkey-gitlab-mr-page-alert/master/src/index.js
