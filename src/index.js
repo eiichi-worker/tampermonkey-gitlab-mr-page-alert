@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         tampermonkey-gitlab-mr-page-alert
 // @namespace    https://github.com/eiichi-worker/tampermonkey-gitlab-mr-page-alert
-// @version      2019-06-18
 // @description  GitLabのマージリクエストページを安全に！
 // @author       Eiichi Fujimoto
+// @version      2019-06-18
+// @updateURL    https://raw.githubusercontent.com/eiichi-worker/tampermonkey-gitlab-mr-page-alert/master/src/index.js
+// @downloadURL  https://raw.githubusercontent.com/eiichi-worker/tampermonkey-gitlab-mr-page-alert/master/src/index.js
 // @match        https://gitlab.com/*/merge_requests/*
 // @grant        none
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
